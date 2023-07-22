@@ -1,0 +1,31 @@
+
+.photo {
+    /* оформление фотографий */
+    width: 200px; /* ширина картинки */
+    border-radius: 50%; /* кружочек */
+    margin: 20px; /* поля ВОКРУГ картинки */
+}
+
+ table {
+    /* оформление таблицы (то есть всего, что есть на экране */
+    background-color: grey; /* цвет фона */
+    color: white; /* цвет текста */
+    font-size: 20px; /* размер букв */
+    padding-left: 20px; /* поля ВНУТРИ ячейки */
+    vertical-align: top; /* вертикальное выравнивание поверху */
+
+}
+
+.name {
+    /* оформление имен */
+    font-weight: bold; /* жирный шрифт*/
+    font-size: 28px; /* размер букв */
+    color: white; /* цвет текста (дублируется в стиле таблицы) */
+    text-align: center; /* жирный шрифт*/
+    padding-top: 20px; 
+}
+
+h1 {
+    color: black;
+    text-align: center;   
+}
